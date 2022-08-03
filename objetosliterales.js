@@ -8,3 +8,5 @@ var operacion1;
 for (let i = 0; i < 1; i++) {
    operacion1=numeros.numerador1/numeros.denominador1;
 }
+
+console.log(`Division numero uno es igual a ${operacion1}`)
